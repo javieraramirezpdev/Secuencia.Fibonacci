@@ -36,11 +36,8 @@ const impares = fibonacci.filter(numero => numero % 2 !== 0);
 console.log("Números impares:");
 console.log(impares);
 
-
-// ======================================
 // EJERCICIO 2
 // Arreglo de strings en mayúsculas
-// ======================================
 
 console.log("===== EJERCICIO 2 =====");
 
@@ -61,11 +58,8 @@ console.log(pokemon);
 console.log("Pokémon en mayúsculas:");
 console.log(pokemonMayusculas);
 
-
-// ======================================
 // EJERCICIO 3
 // Pokémon tipo fuego
-// ======================================
 
 console.log("===== EJERCICIO 3 =====");
 
